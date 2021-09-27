@@ -1,0 +1,5 @@
+login;password
+logzzz;paszzz
+admin;password
+loh1;qwerty
+loh2;qwerty123
